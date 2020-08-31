@@ -1,0 +1,87 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1598864168021' stop='1598864216037'>
+    <name>Test : Validate clipped Coupon</name>
+    <title>Test : Validate clipped Coupon</title>
+    <test-cases>
+        <test-case start='1598864168022' status='passed' stop='1598864177342'>
+            <name>Launch the application</name>
+            <title>Launch the application</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2a1211f5-d0e4-49fb-bfaa-776680bb6998-attachment.png' type='image/png' size='7048'/>
+            </attachments>
+        </test-case>
+        <test-case start='1598864177342' status='passed' stop='1598864184589'>
+            <name>Check the modal-dialog, If it there close it</name>
+            <title>Check the modal-dialog, If it there close it</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f076abca-7838-4220-a938-ab195f055094-attachment.png' type='image/png' size='501067'/>
+            </attachments>
+        </test-case>
+        <test-case start='1598864184589' status='passed' stop='1598864186154'>
+            <name>Launch the application and click on the Sign account link</name>
+            <title>Launch the application and click on the Sign account link</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='21b00eb4-962a-4b64-a562-fac60c7777f4-attachment.png' type='image/png' size='422959'/>
+            </attachments>
+        </test-case>
+        <test-case start='1598864186154' status='passed' stop='1598864188117'>
+            <name>should able to login with valid rigistered credentials</name>
+            <title>should able to login with valid rigistered credentials</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='3f585708-f4a0-4e9d-91b1-743328cff628-attachment.png' type='image/png' size='425195'/>
+            </attachments>
+        </test-case>
+        <test-case start='1598864188117' status='passed' stop='1598864206871'>
+            <name>Select the MyThyme Coupons and Browse Coupons</name>
+            <title>Select the MyThyme Coupons and Browse Coupons</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='15965a8b-cb8f-4f98-8367-d9b30f62886c-attachment.png' type='image/png' size='6975'/>
+            </attachments>
+        </test-case>
+        <test-case start='1598864206871' status='passed' stop='1598864211853'>
+            <name>clip the first Coupon</name>
+            <title>clip the first Coupon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='42b6e45f-2cca-4796-bf0a-0e09449e80d7-attachment.png' type='image/png' size='202366'/>
+            </attachments>
+        </test-case>
+        <test-case start='1598864211853' status='passed' stop='1598864213580'>
+            <name>Verify the clipped Coupon</name>
+            <title>Verify the clipped Coupon</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='96400cdd-ac5c-4083-8178-62fee58248bc-attachment.png' type='image/png' size='202366'/>
+            </attachments>
+        </test-case>
+        <test-case start='1598864213581' status='passed' stop='1598864216034'>
+            <name>Logout</name>
+            <title>Logout</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='fc10b874-375b-4f4e-88b6-cb8920b57ae2-attachment.png' type='image/png' size='216070'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
