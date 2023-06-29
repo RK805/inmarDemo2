@@ -26,7 +26,5 @@ export class loginPage {
     userSignIn = function () {
         return element(by.css(this.submit));
     }
-    
-    
-    
+     
 }
